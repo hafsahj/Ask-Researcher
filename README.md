@@ -10,7 +10,7 @@ pinned: false
 license: mit
 ---
 
-# Ask My Research
+# Ask-Researcher
 
 Upload PDFs of research papers, ask questions in plain English, get answers grounded in the actual text, with the source file and page cited for every retrieved passage.
 
