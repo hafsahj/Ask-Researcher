@@ -39,8 +39,8 @@ Upload PDFs of research papers, ask questions in plain English, get answers grou
 ## Running locally
 
 ```bash
-git clone https://github.com/hafsahj/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/hafsahj/ask-researcher.git
+cd ask-researcher
 pip install -r requirements.txt
 export HF_TOKEN=your_huggingface_token   # free, from huggingface.co/settings/tokens
 streamlit run app.py
